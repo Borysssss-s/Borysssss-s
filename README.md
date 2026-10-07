@@ -14,6 +14,12 @@ I'm interested in software development and cybersecurity, and I like learning by
 - 🇩🇪 German — A2
 - 🔐 Planning to pursue the **Master's Degree in Cybersecurity at UMU**
 
+## 🎯 Goals
+
+For now, my main goal is to keep improving my programming skills throughout my degree.
+
+In the future, I'd like to specialize in **cybersecurity** and continue my studies with the **Master's Degree in Cybersecurity at UMU**.
+
 ## 💻 Tech Stack
 
 <p>
@@ -24,12 +30,6 @@ I'm interested in software development and cybersecurity, and I like learning by
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
-## 🎯 Goals
-
-For now, my main goal is to keep improving my programming skills throughout my degree.
-
-In the future, I'd like to specialize in **cybersecurity** and continue my studies with the **Master's Degree in Cybersecurity at UMU**.
 
 ## 🌐 Contact
 

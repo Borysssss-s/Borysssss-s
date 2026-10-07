@@ -13,6 +13,7 @@ My long-term goal is to pursue the Master's Degree in Cybersecurity at the Unive
 I enjoy learning new technologies, building projects and improving my programming skills through practice.
 
 🌍 Languages
+- 🇪🇸 Spanish — Native
 - 🇬🇧 English: C2
 - 🇩🇪 German: A2
 

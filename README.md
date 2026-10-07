@@ -1,8 +1,8 @@
 # Hi, I'm Boryslav 👋
 
-I'm a **third-year Computer Engineering student at the University of Murcia (UMU)**.
+I'm a third-year Computer Engineering student at the University of Murcia (UMU), currently building my programming skills through university and personal projects.
 
-I'm interested in software development and cybersecurity, and I like learning by working on university and personal projects.
+I'm mainly interested in software development and cybersecurity, and my current goal is to keep improving my programming knowledge and gain more experience by working on different projects.
 
 ## About Me
 

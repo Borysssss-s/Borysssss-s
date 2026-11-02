@@ -10,7 +10,7 @@ I'm mainly interested in software development and cybersecurity, and my current 
 - 💻 Java, Python and C++
 - 🗄️ Basic experience with MySQL
 - 🇪🇸 Spanish — Native
-- 🇬🇧 English — C2
+- 🇬🇧 English — C1
 - 🇩🇪 German — A2
 - 🔐 Planning to pursue the **Master's Degree in Cybersecurity at UMU**
 
